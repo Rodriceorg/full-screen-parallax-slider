@@ -4,6 +4,10 @@
 }
 
 
+#rods-slider {
+    max-width: 1920px;
+}
+
 
 .slider-container {
   position: relative;
