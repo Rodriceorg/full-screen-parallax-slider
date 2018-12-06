@@ -23,7 +23,11 @@ svg {
   overflow: visible;
 }
 
-#rodslider .slider-container {
+#rodslider {
+  height: 960px;
+}
+
+.slider-container {
   position: relative;
   height: 100%;
   -webkit-user-select: none;
