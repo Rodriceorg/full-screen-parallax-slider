@@ -1,18 +1,28 @@
+@import "compass/css3";
+
 @font-face {
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/polar.otf");
+  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/polar.otf');
   font-family: 'Polar';
 }
-
+$polar: 'Polar', Helvetica, Arial, sans-serif;
+$openSans: 'Open Sans', Helvetica, Arial, sans-serif;
+@mixin mediaMaxWidth($w) {
+  @media (max-width: $w) {
+    @content;
+  }
+}
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-
-html {
+html, body {
   font-size: 62.5%;
+  height: 100%;
   overflow: hidden;
 }
+
+
 
 svg {
   display: block;
