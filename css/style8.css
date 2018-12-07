@@ -9,9 +9,8 @@
   padding: 0;
 }
 
-.slider-container {
+html {
   font-size: 62.5%;
-  height: 100%;
   overflow: hidden;
 }
 
