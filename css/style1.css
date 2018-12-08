@@ -557,7 +557,7 @@ svg {
 }
 .slide__text-heading {
   font-family: "Polar", Helvetica, Arial, sans-serif;
-  font-size: 5rem;
+  font-size: 3rem;
   margin-bottom: 2rem;
 }
 @media (max-width: 991px) {
