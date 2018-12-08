@@ -370,8 +370,8 @@ svg {
   position: relative;
   display: inline-block;
   vertical-align: top;
-  width: 2rem;
-  height: 2rem;
+  width: 1.4rem;
+  height: 1.4rem;
   margin: 0 0.5rem;
   border-radius: 50%;
   border: 2px solid #fff;
@@ -563,12 +563,12 @@ svg {
 @media (max-width: 991px) {
   .slide__text-heading {
     line-height: 20rem;
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
 .slide__text-desc {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   margin-bottom: 1.5rem;
 }
 @media (max-width: 991px) {
@@ -577,6 +577,7 @@ svg {
   }
 }
 .slide__text-link {
+  color: #fff;
   z-index: 5;
   display: inline-block;
   position: relative;
