@@ -636,7 +636,11 @@ svg {
     user-select: none;
     cursor: all-scroll;
 }
+.slider-pagi__elem {
+    width: .5rem;
+    height: .5rem;
 
+}
 	
 	
 }
