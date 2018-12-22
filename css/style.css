@@ -655,6 +655,7 @@ svg {
 .slide__text-heading {
     line-height: 20rem;
     font-size: 2rem;
+    margin-top: -18px;
 }
 }
 
