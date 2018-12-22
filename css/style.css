@@ -548,7 +548,7 @@ svg {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 450px;
+    height: 20rem;
     text-align: center;
     -webkit-transform: translateY(50%);
             transform: translateY(50%);
@@ -633,10 +633,6 @@ svg {
     -ms-user-select: none;
     user-select: none;
     cursor: all-scroll;
-}
-.slide__text-heading {
-    line-height: 20rem;
-    font-size: 2rem;
 }
 
 	
