@@ -548,7 +548,7 @@ svg {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 20rem;
+    height: 450px;
     text-align: center;
     -webkit-transform: translateY(50%);
             transform: translateY(50%);
@@ -650,10 +650,6 @@ svg {
 
     bottom: 0.5rem;
 }  
-
-.slide__text {
-
-    height: 470px;
 
 
 .slider-pagi__elem {
