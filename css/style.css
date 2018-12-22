@@ -620,3 +620,21 @@ svg {
   -webkit-transform: rotateX(0);
           transform: rotateX(0);
 }
+
+
+@media (max-width: 991px) {
+  .slider-container {
+    position: relative;
+    height: 210px;
+    max-width: 1920px;
+    width: 100%;
+    /* -webkit-user-select: none; */
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: all-scroll;
+}
+}
+
+
+
