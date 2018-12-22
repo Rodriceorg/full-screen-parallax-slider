@@ -549,7 +549,7 @@ svg {
     bottom: 0;
     width: 100%;
     height: 20rem;
-    text-align: center;
+    text-align: left;
     -webkit-transform: translateY(50%);
             transform: translateY(50%);
     transition: opacity 0.5s 0.5s, -webkit-transform 0.5s 0.5s;
@@ -668,3 +668,14 @@ svg {
     margin: 0 auto;
 }
 }
+@media (max-width: 823px) {
+.slide.active .slide__text {
+    text-align: center;
+}
+}
+
+
+
+
+
+
