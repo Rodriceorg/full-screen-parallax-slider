@@ -636,12 +636,15 @@ svg {
     user-select: none;
     cursor: all-scroll;
 }
+
+}
+
+@media (max-width: 991px) {
 .slider-pagi__elem {
     width: .5rem;
     height: .5rem;
 
 }
-	
 	
 }
 
