@@ -639,38 +639,6 @@ svg {
     font-size: 2rem;
 }
 
-
-.slide__text-link {
-    font-size: 1.3rem;
-    margin-top: 7px;
-	font-size: 1.2rem;
-}
-
-.slider-pagi {
-
-    bottom: 0.5rem;
-}  
-
-
-.slider-pagi__elem {
-    width: .5rem;
-    height: .5rem;
-
-}
-
-
-.slide__text-desc {
-
-    height: 470px;
-    font-size: 0.7rem;
-    margin-top: -134px;
-    padding: 0 16%;
-}
-	
-.slide.active .slide__text {
-    text-align: left;
-}
-
 	
 	
 }
