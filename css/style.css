@@ -564,11 +564,7 @@ svg {
   font-size: 2rem;
   margin-bottom: 2rem;
 }
-@media (max-width: 991px) {
-  .slide__text-heading {
-    line-height: 20rem;
-  }
-}
+
 .slide__text-desc {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 1.3rem;
@@ -596,6 +592,7 @@ svg {
 @media (max-width: 991px) {
   .slide__text-link {
     display: block;
+    font-size: 1.3rem;	  
     margin-top: 7px;
     font-size: 1.2rem;	  
   }
@@ -652,13 +649,6 @@ svg {
     font-size: 0.7rem;
     margin-top: -134px;
     padding: 0 16%;
-}	
-}
-@media (max-width: 991px) {
-.slide__text-link {
-    font-size: 1.3rem;
-    margin-top: 7px;
-	  font-size: 1.2rem;
 }	
 }
 
