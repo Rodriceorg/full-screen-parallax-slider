@@ -650,7 +650,27 @@ svg {
 
     bottom: 0.5rem;
 }  
-  
+
+.slide__text {
+
+    height: 470px;
+
+
+.slider-pagi__elem {
+    width: .5rem;
+    height: .5rem;
+
+}
+
+
+.slide__text-desc {
+
+    height: 470px;
+    font-size: 0.7rem;
+    margin-top: -134px;
+    padding: 0 16%;
+}	
+	
 }
 
 
