@@ -634,6 +634,23 @@ svg {
     user-select: none;
     cursor: all-scroll;
 }
+.slide__text-heading {
+    line-height: 20rem;
+    font-size: 2rem;
+}
+
+
+.slide__text-link {
+    font-size: 1.3rem;
+    margin-top: 7px;
+	font-size: 1.2rem;
+}
+
+.slider-pagi {
+
+    bottom: 0.5rem;
+}  
+  
 }
 
 
