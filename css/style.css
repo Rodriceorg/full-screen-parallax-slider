@@ -636,14 +636,14 @@ svg {
 
 }
 
-@media (max-width: 991px) {
+@media (max-width: 823px) {
 .slider-pagi__elem {
     width: .5rem;
     height: .5rem;
 
 }	
 }
-@media (max-width: 991px) {
+@media (max-width: 823px) {
 .slide__text-desc {
     height: 470px;
     font-size: 0.7rem;
