@@ -663,7 +663,7 @@ svg {
 @media (max-width: 823px) {
 .slide__text-link {
     display: block;
-    font-size: 1.1rem;
+    font-size: .8rem;
     width: 25%;
     margin: 0 auto;
 }
