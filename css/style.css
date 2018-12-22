@@ -645,10 +645,10 @@ svg {
 }
 @media (max-width: 823px) {
 .slide__text-desc {
-    height: 470px;
+    height: 450px;
     font-size: 0.7rem;
-    margin-top: -134px;
-    padding: 0 16%;
+    margin-top: -176px;
+    padding: 0 17%;
 }	
 }
 @media (max-width: 823px) {
