@@ -567,7 +567,6 @@ svg {
 @media (max-width: 991px) {
   .slide__text-heading {
     line-height: 20rem;
-    font-size: 3rem;
   }
 }
 .slide__text-desc {
@@ -579,7 +578,7 @@ svg {
 }
 @media (max-width: 991px) {
   .slide__text-desc {
-    display: none;
+    display: block;
   }
 }
 .slide__text-link {
@@ -596,7 +595,9 @@ svg {
 }
 @media (max-width: 991px) {
   .slide__text-link {
-    display: none;
+    display: block;
+    margin-top: 7px;
+    font-size: 1.2rem;	  
   }
 }
 .slide__text-link:before {
