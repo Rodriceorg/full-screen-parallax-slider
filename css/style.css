@@ -149,7 +149,7 @@ svg {
     }
 
     .slide__overlay-path {
-      fill: rgb(233, 156, 126);
+      fill: rgb(#ffc93d);
     }
 
     @include mediaMaxWidth(991px) {
