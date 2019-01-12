@@ -675,6 +675,16 @@ svg {
 }
 }
 
+@media (max-width: 823px) {
+.slide:nth-child(1) .slide__text-desc {
+    height: 450px !important;
+    font-size: 0.7rem !important;
+    margin-top: -490px !important;
+    margin-bottom: -24.1rem !important;
+    line-height: 17px !important;
+    padding: 0 6% !important;
+}
+}
 
 
 
